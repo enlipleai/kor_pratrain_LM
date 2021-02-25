@@ -215,4 +215,4 @@ Following(or This research) was results of a study on the "HPC Support" Project,
 
 
 ---
-* 추가적으로 궁금하신점은 해당 repo의 issue를 등록해주시거나 ekjeon@enliple.com으로 메일 주시면 답변 드리겠습니다.
+* 추가적으로 궁금하신점은 해당 repo의 issue를 등록해주시거나 jdkim@enliple.com으로 메일 주시면 답변 드리겠습니다.
